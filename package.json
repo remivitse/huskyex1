@@ -17,6 +17,7 @@
   "devDependencies": {
     "eslint": "8.18.0",
     "eslint-config-next": "12.2.0",
+    "git-precommit-checks": "^3.0.7",
     "husky": "^8.0.1"
   }
 }
